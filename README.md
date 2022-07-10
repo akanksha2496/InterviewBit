@@ -19,5 +19,8 @@ My implementation of some popular data structures and algorithms and interview q
 |Maximum Sum Triplet 	   |[java](Array/MaximumSumTriplet.java)|
 |Minimum Lights To Activate 	   |[java](Array/MinimumLightsToActivate.java)|
 |Partition 	   |[java](Array/Partitions.java)|
+|Flip 	   |[java](Array/Flip.java )|
+
+
 
 
