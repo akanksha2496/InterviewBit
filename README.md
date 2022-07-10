@@ -16,9 +16,9 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|Max Sum Contiguous Subarray 	   |[java](InterviewBit/Array/MaximumSumTriplet.java)|
-|Maximum Sum Triplet 	   |[java](InterviewBit/Array/MaximumSumTriplet.java)|
-|Minimum Lights To Activate 	   |[java](InterviewBit/Array/MinimumLightsToActivate.java)|
-|Partition 	   |[java](InterviewBit/Array/Partitions.java)|
+|Max Sum Contiguous Subarray 	   |[java](Array/MaxSumContiguousSubarray.java)|
+|Maximum Sum Triplet 	   |[java](Array/MaximumSumTriplet.java)|
+|Minimum Lights To Activate 	   |[java](Array/MinimumLightsToActivate.java)|
+|Partition 	   |[java](Array/Partitions.java)|
 
 
