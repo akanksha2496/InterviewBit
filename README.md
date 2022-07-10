@@ -1,5 +1,4 @@
-# Algorithm_and_DS
-# Data Structures and Algorithms
+#InterviewBit_Coding_Soltuion_Practice
 
 My implementation of some popular data structures and algorithms and interview questions relating to them in java
 
