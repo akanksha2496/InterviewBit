@@ -20,7 +20,7 @@ My implementation of some popular data structures and algorithms and interview q
 |Minimum Lights To Activate 	   |[java](Array/MinimumLightsToActivate.java)|
 |Partition 	   |[java](Array/Partitions.java)|
 |Flip 	   |[java](Array/Flip.java )|
-
+|Maximum Absolute Difference 	   |[java](Array/MaximumAbsoluteDifference.java )|
 
 
 
