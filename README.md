@@ -21,6 +21,7 @@ My implementation of some popular data structures and algorithms and interview q
 |Partition 	   |[java](Array/Partitions.java)|
 |Flip 	   |[java](Array/Flip.java )|
 |Maximum Absolute Difference 	   |[java](Array/MaximumAbsoluteDifference.java )|
+| Max Distance | [java](Arrays/MaxDistance.java)|
 
 
 
