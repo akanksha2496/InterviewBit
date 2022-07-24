@@ -23,5 +23,6 @@ My implementation of some popular data structures and algorithms and interview q
 |Maximum Absolute Difference 	   |[java](Array/MaximumAbsoluteDifference.java )|
 | Max Distance | [java](Array/MaxDistance.java)|
 | Pick from both sides! |[java](Array/PickFromBothSides.java)|
+| First Missing Integer |[java](Array/FirstMissingInteger.java)|
 
 
