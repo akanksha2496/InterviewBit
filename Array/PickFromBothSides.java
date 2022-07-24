@@ -81,6 +81,8 @@ Explanation 2:
 
  Pick element 2 from end as this is the maximum we can get
  
+ Video solution - https://www.youtube.com/watch?v=8dJ1OLtXNvQ
+ 
 Solution:
 
 public class Solution {
