@@ -22,6 +22,6 @@ My implementation of some popular data structures and algorithms and interview q
 |Flip 	   |[java](Array/Flip.java )|
 |Maximum Absolute Difference 	   |[java](Array/MaximumAbsoluteDifference.java )|
 | Max Distance | [java](Array/MaxDistance.java)|
-
+| Pick from both sides! |[java](Array/PickFromBothSides.java)|
 
 
