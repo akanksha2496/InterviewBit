@@ -25,3 +25,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Pick from both sides! |[java](Array/PickFromBothSides.java)|
 | First Missing Integer |[java](Array/FirstMissingInteger.java)|
 | Greater than All |[java](Array/GreaterThanAll.java)|
+| Perfect Peak of Array |[java](Array/PerfectPeakOfArray.java)|
