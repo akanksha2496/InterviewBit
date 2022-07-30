@@ -27,3 +27,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Greater than All |[java](Array/GreaterThanAll.java)|
 | Perfect Peak of Array |[java](Array/PerfectPeakOfArray.java)|
 | Find Duplicate in Array |[java](Array/FindDuplicateInArray.java)|
+| Wave Array |[java](Array/WaveArray.java)|
