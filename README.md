@@ -29,3 +29,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Find Duplicate in Array |[java](Array/FindDuplicateInArray.java)|
 | Wave Array |[java](Array/WaveArray.java)|
 | Maximum Unsorted Subarray |[java](Array/MaximumUnsortedSubarray.java)|
+| Noble Integer | [java](Array/NobleInteger.java)|
