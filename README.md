@@ -28,3 +28,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Perfect Peak of Array |[java](Array/PerfectPeakOfArray.java)|
 | Find Duplicate in Array |[java](Array/FindDuplicateInArray.java)|
 | Wave Array |[java](Array/WaveArray.java)|
+| Maximum Unsorted Subarray |[java](Array/MaximumUnsortedSubarray.java)|
