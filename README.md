@@ -34,3 +34,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Repeat and Missing Number Array |[java](Array/RepeatandMissingNumberArray.java)|
 | N/3 Repeat Number |[java](Array/NBy3RepeatNumber.java)|
 | Maximum Consecutive Gap |[java](Array/MaximumConsecutiveGap.java)|
+| Set matrix zeros |[java](Array/SetMatrixZeros.java)|
