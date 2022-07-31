@@ -33,3 +33,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Hotel Bookings Possible | [java](Array/HotelBookingsPossible.java) |
 | Repeat and Missing Number Array |[java](Array/RepeatandMissingNumberArray.java)|
 | N/3 Repeat Number |[java](Array/NBy3RepeatNumber.java)|
+| Maximum Consecutive Gap |[java](Array/MaximumConsecutiveGap.java)|
