@@ -30,3 +30,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Wave Array |[java](Array/WaveArray.java)|
 | Maximum Unsorted Subarray |[java](Array/MaximumUnsortedSubarray.java)|
 | Noble Integer | [java](Array/NobleInteger.java)|
+| Hotel Bookings Possible | [java](Array/HotelBookingsPossible.java) |
