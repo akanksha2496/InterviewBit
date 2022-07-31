@@ -31,3 +31,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Maximum Unsorted Subarray |[java](Array/MaximumUnsortedSubarray.java)|
 | Noble Integer | [java](Array/NobleInteger.java)|
 | Hotel Bookings Possible | [java](Array/HotelBookingsPossible.java) |
+| Repeat and Missing Number Array |[java](Array/RepeatandMissingNumberArray.java)|
