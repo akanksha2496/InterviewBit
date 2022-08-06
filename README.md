@@ -47,3 +47,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Reverse Linked List |[java](LinkList/ReverseLinkedList.java)|
 | Rotate List | [java](LinkList/RotateList.java)|
 | K reverse linked list | [java](LinkList/Kreverselinkedlist.java)|
+|Even Reverse| [java](LinkList/EvenReverse.java)|
