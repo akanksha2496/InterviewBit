@@ -46,3 +46,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Insertion Sort List |[java](LinkList/InsertionSortList.java)|
 | Reverse Linked List |[java](LinkList/ReverseLinkedList.java)|
 | Rotate List | [java](LinkList/RotateList.java)|
+| K reverse linked list | [java](LinkList/Kreverselinkedlist.java)|
