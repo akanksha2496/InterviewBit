@@ -52,3 +52,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Remove Nth Node from List End | [java](LinkList/RemoveNthNodefromListEnd.java)|
 | Merge Two Sorted Lists |[java](LinkList/MergeTwoSortedLists.java)|
 | Remove Duplicates from Sorted List |[java](LinkList/RemoveDuplicatesfromSortedList.java)|
+|Remove Duplicates from Sorted List II|[java](LinkList/RemoveDuplicatesfromSortedListII.java)|
