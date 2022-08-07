@@ -51,3 +51,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Swap List Nodes in pairs | [java](LinkList/SwapListNodesinpairs.java)|
 | Remove Nth Node from List End | [java](LinkList/RemoveNthNodefromListEnd.java)|
 | Merge Two Sorted Lists |[java](LinkList/MergeTwoSortedLists.java)|
+| Remove Duplicates from Sorted List |[java](LinkList/RemoveDuplicatesfromSortedList.java)|
