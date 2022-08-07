@@ -9,6 +9,7 @@ My implementation of some popular data structures and algorithms and interview q
   - [Content:](#Content)
     - [Array](#Array)
     - [LinkList](#LinkList)
+    - [BitManipulation](#BitManipulation)
 
 ------------------------------------------------------------------------------
 
@@ -55,3 +56,11 @@ My implementation of some popular data structures and algorithms and interview q
 |Remove Duplicates from Sorted List II|[java](LinkList/RemoveDuplicatesfromSortedListII.java)|
 | List Cycle |[java](LinkList/ListCycle.java)|
 | Kth Node From Middle |[java](LinkList/KthNodeFromMiddle.java)|
+
+
+### BitManipulation
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+
+| Number of 1 Bits |[java](BitManipulation/Numberof1Bits.java)|
