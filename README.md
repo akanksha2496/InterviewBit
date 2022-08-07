@@ -62,5 +62,5 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
+| Number of 1 Bits	   |[java](BitManipulation/Numberof1Bits.java)|
 
-| Number of 1 Bits |[java](BitManipulation/Numberof1Bits.java)|
