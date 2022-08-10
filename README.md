@@ -77,6 +77,7 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 | Longest Common Subsequence   |[java](DynamicProgramming/LongestCommonSubsequence.java )|
+|Longest Palindromic Subsequence|[java](DynamicProgramming/LongestPalindromicSubsequence.java)|
 
 
 
