@@ -10,6 +10,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [Array](#Array)
     - [LinkList](#LinkList)
     - [BitManipulation](#BitManipulation)
+    - [DynamicProgramming](#DynamicProgramming)
 
 ------------------------------------------------------------------------------
 
@@ -68,4 +69,14 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 | Number of 1 Bits	   |[java](BitManipulation/Numberof1Bits.java)|
+
+
+
+### DynamicProgramming
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+| Longest Common Subsequence   |[java](DynamicProgramming/LongestCommonSubsequence.java )|
+
+
 
