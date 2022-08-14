@@ -82,3 +82,4 @@ My implementation of some popular data structures and algorithms and interview q
 | Longest Increasing Subsequence |[java](DynamicProgramming/LongestIncreasingSubsequence.java)|
 | Length of Longest Subsequence/ Bitonic subsequence |[java](DynamicProgramming/LengthofLongestSubsequence.java)|
 |Smallest sequence with given Primes |[java](DynamicProgramming/SmallestsequencewithgivenPrimes.java)|
+|Stairs|[java](DynamicProgramming/Stairs.java.java)|
