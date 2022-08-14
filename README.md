@@ -80,5 +80,5 @@ My implementation of some popular data structures and algorithms and interview q
 |Longest Palindromic Subsequence|[java](DynamicProgramming/LongestPalindromicSubsequence.java)|
 | Edit Distance |[java](DynamicProgramming/EditDistance.java)|
 | Longest Increasing Subsequence |[java](DynamicProgramming/LongestIncreasingSubsequence.java)|
-
+| Length of Longest Subsequence/ Bitonic subsequence |[java](DynamicProgramming/LengthofLongestSubsequence.java)|
 
