@@ -84,3 +84,4 @@ My implementation of some popular data structures and algorithms and interview q
 |Smallest sequence with given Primes |[java](DynamicProgramming/SmallestsequencewithgivenPrimes.java)|
 |Stairs|[java](DynamicProgramming/Stairs.java)|
 |Jump Game Array|[java](DynamicProgramming/JumpGameArray.java)|
+|Min Jumps Array|[java](DynamicProgramming/MinJumpsArray.java)|
