@@ -85,3 +85,4 @@ My implementation of some popular data structures and algorithms and interview q
 |Stairs|[java](DynamicProgramming/Stairs.java)|
 |Jump Game Array|[java](DynamicProgramming/JumpGameArray.java)|
 |Min Jumps Array|[java](DynamicProgramming/MinJumpsArray.java)|
+|Paint House|[java](DynamicProgramming/PaintHouse.java)|
