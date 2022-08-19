@@ -88,3 +88,4 @@ My implementation of some popular data structures and algorithms and interview q
 |Paint House|[java](DynamicProgramming/PaintHouse.java)|
 | 0-1 Knapsack |[java](DynamicProgramming/0-1Knapsack.java)|
 |Best Time to Buy and Sell Stocks II|[java](DynamicProgramming/BestTimetoBuyandSellStocksII.java)|
+|Chain of Pairs|[java](DynamicProgramming/ChainofPairs.java)|
