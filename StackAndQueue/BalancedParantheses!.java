@@ -30,29 +30,7 @@ First argument is an string A.
 
 Output Format
 Return 1 if parantheses in string are balanced else return 0.
-  
-  code:
-
-public class Solution {
-    public int solve(String A) {
-        Stack<Character> s=new Stack<>();
-        for(int i=0;i<A.length();i++)
-        {
-            if(A.charAt(i)==')' && s.size()>0 && s.peek()=='(')
-            s.pop();
-            else
-            s.push(A.charAt(i));
-            
-        }
-        if(s.size()==0)
-        return 1;
-        return 0;
-    }
-}
-
-
-
-
+ 
 Example Input
 Input 1:
 
@@ -78,3 +56,24 @@ Explanation 1:
 Explanation 2:
 
  Given string is not balanced so we return 0
+   
+   
+     code:
+
+public class Solution {
+    public int solve(String A) {
+        Stack<Character> s=new Stack<>();
+        for(int i=0;i<A.length();i++)
+        {
+            if(A.charAt(i)==')' && s.size()>0 && s.peek()=='(')
+            s.pop();
+            else
+            s.push(A.charAt(i));
+            
+        }
+        if(s.size()==0)
+        return 1;
+        return 0;
+    }
+}
+
