@@ -92,7 +92,7 @@ My implementation of some popular data structures and algorithms and interview q
 |Chain of Pairs|[java](DynamicProgramming/ChainofPairs.java)|
 | Coin Sum Infinite|[java](DynamicProgramming/CoinSumInfinite.java)|
 
-### DynamicProgramming
+### StackAndQueue
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
