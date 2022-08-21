@@ -11,6 +11,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [LinkList](#LinkList)
     - [BitManipulation](#BitManipulation)
     - [DynamicProgramming](#DynamicProgramming)
+    - [StackAndQueue](#StackAndQueue)
 
 ------------------------------------------------------------------------------
 
@@ -90,3 +91,10 @@ My implementation of some popular data structures and algorithms and interview q
 |Best Time to Buy and Sell Stocks II|[java](DynamicProgramming/BestTimetoBuyandSellStocksII.java)|
 |Chain of Pairs|[java](DynamicProgramming/ChainofPairs.java)|
 | Coin Sum Infinite|[java](DynamicProgramming/CoinSumInfinite.java)|
+
+### DynamicProgramming
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+| Balanced Parantheses !  |[java](StackAndQueue/BalancedParantheses!.java )|
+
