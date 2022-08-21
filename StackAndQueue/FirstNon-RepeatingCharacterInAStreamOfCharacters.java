@@ -99,3 +99,30 @@ Explanation 2:
 }
     
     
+code 2 - mine:
+
+public class Solution {
+    public String solve(String A) {
+        StringBuilder ans = new StringBuilder();
+        Queue<Character> q=new LinkedList<>();
+        HashMap<Character, Integer> map=new HashMap<Character, Integer>();
+        for(int i=0;i<A.length();i++)
+        {
+            q.add(A.charAt(i));
+            if(map.containsKey(A.charAt(i)))
+            map.put(A.charAt(i),map.get(A.charAt(i))+1);
+            else
+            map.put(A.charAt(i),1);
+            while(q.size()>0 && map.get(q.peek())>1)
+            {
+                q.poll();
+            }
+            if(q.size()==0)
+            ans.append("#");
+            else
+            ans.append(q.peek());
+        }
+        return ans.toString();
+    }
+}
+
