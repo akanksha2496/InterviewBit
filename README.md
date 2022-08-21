@@ -97,4 +97,10 @@ My implementation of some popular data structures and algorithms and interview q
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
 | Balanced Parantheses !  |[java](StackAndQueue/BalancedParantheses!.java )|
+| Evaluate Expression  |[java](StackAndQueue/EvaluateExpression.java)|
+| First Non-Repeating Character In A Stream Of Characters |[java](StackAndQueue/FirstNon-RepeatingCharacterInAStreamOfCharacters.java)|
+
+
+
+
 
