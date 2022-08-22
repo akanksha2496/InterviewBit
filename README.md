@@ -100,6 +100,7 @@ My implementation of some popular data structures and algorithms and interview q
 | Evaluate Expression  |[java](StackAndQueue/EvaluateExpression.java)|
 | First Non-Repeating Character In A Stream Of Characters |[java](StackAndQueue/FirstNon-RepeatingCharacterInAStreamOfCharacters.java)|
 |Nearest Smaller Element|[java](StackAndQueue/NearestSmallerElement.java)|
+|Min Stack|[java](StackAndQueue/MinStack.java)|
 
 
 
