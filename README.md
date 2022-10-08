@@ -12,6 +12,7 @@ My implementation of some popular data structures and algorithms and interview q
     - [BitManipulation](#BitManipulation)
     - [DynamicProgramming](#DynamicProgramming)
     - [StackAndQueue](#StackAndQueue)
+    - [Tree](#Tree)
 
 ------------------------------------------------------------------------------
 
@@ -102,6 +103,13 @@ My implementation of some popular data structures and algorithms and interview q
 |Nearest Smaller Element|[java](StackAndQueue/NearestSmallerElement.java)|
 |Min Stack|[java](StackAndQueue/MinStack.java)|
 |Simplify Directory Path|[java](StackAndQueue/SimplifyDirectoryPath.java)|
+
+### Tree
+
+| 			Topic/Question			                                            |	Code in java                           
+|-----------------------------------|:------------------:|
+| Valid BST from Preorder  |[java](Tree/ValidBSTfromPreorder.java )|
+
 
 
 
